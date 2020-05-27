@@ -1,3 +1,4 @@
+//JavaScript program to generate a random 3-meal course
 let menu = {
   _courses: {
     appetizers: [],
